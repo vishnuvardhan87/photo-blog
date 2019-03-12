@@ -22,6 +22,10 @@ Corresponding post, comment and photo-albums are fetched for user-id. They are m
 The state is not shared between post, comment and photo-albums, so state is managed inside the component.
 User details were displayed using down-arrow and toggle state is managed.
 
+Deployment:
+The App can be viewed at the below url:
+https://photo-client-blog.herokuapp.com/
+
 npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
